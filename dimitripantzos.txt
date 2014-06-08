@@ -1,0 +1,6 @@
+<span id=“a">Dimitri@dimitrip.tk</span>:<span id="b">~</span><span id="c">$</span> cat dimitripantzos.txt<br/><br/>
+<VLINK=“#00FF00”>Hi, I'm Dimitri Pantzos.<!-- laglaglaglaglaglaglaglaglaglaglaglag —><p>I am a High School Student studying Computer Science!.</p><!— qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>I'm the founder and CEO of Computers By Us.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>I love to Read, Code, and Spend Time with Family and Friends.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+If you would like to get in touch with me, whether it be for tech support, a Job, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href=“mailto:dimitri@dimitrip.tk">dimitri@dimitrip.tk</a>
+<p>Hope to Get in Touch With You Soon!</p>
